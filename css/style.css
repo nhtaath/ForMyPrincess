@@ -49,28 +49,28 @@
 }
 
 header h2 {
-    font-family: 'Pacifico';
-    font-size: 80px;
+    font-family: 'Georgia';
+    font-size: 65px;
     text-align: center;
     margin-bottom: 30px;
     color: cyan;
 }
 
 header h4 {
-    font-family: 'Pacifico';
+    font-family: 'Georgia';
     text-align: center;
-    color: chartreuse;
+    color: black;
 }
 
 @media only screen and (max-width: 500px) {
     header h2 {
         font-family: 'sans-serif';
-        font-size: 45px;
+        font-size: 20px;
         text-align: center;
         margin-bottom: 30px;
     }
     header h4 {
-        font-family: 'Pacifico';
+        font-family: 'Georgia';
         text-align: center;
         padding: 15px;
     }
