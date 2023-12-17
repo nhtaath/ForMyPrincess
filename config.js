@@ -1,18 +1,18 @@
 const CONFIG = {
-    titleWeb: "Ngọc Hân",
-    introTitle: 'Ngọc Hân của anh ☺️',
-    introDesc: `Suốt thời gian quan anh anh đã suy nghĩ rất nhiều rồi
-    em đừng có rời xa anh nữa, anh không muốn xa em thêm nữa đâu`,
-    btnIntro: 'Rồi nói tiếp đi',
-    title: 'Anh đã suy nghĩ rất nhiều về lỗi sai của anh. Anh không dám mong em quay lại. Anh chỉ mong em cho anh thêm 1 cơ hội để mình tìm hiểu nhau lại từ đầu nha',
-    desc: 'Nếu em hết tình cảm. Thì hãy để anh chia cho em 1 nữa rồi mình phát triển thêm nha',
-    btnYes: 'Dạ🥰',
-    btnNo: 'Không',
-    question: 'Em đồng ý rồi đó nha, hong được nuốt lời đâu đó 🥰',
+    titleWeb: "Dear Tró Hân",
+    introTitle: 'Ngọc Hân iu dấu của chị ☺️',
+    introDesc: `Ùmm chị đã quen có em bên cạnh rồi
+    em đừng có rời xa chị nha bé, chị hong muốn thiếu em đâuu`,
+    btnIntro: 'Quâng chị ☺️',
+    title: 'Nữa 2 mình mà cưới, em đi làm xong dìa nấu cơm rồi tối ôm anh ngủ nha 🥰',
+    desc: 'Anh ở nhà chờ em dìa ôm',
+    btnYes: 'Tất nhiên rồi chị yêu🥰',
+    btnNo: 'Deoooo',
+    question: 'Thì coi như cái này là lời cầu hôn trước đi 🥰',
     btnReply: 'Gửi cho anh yêu 🥰',
-    reply: 'Em sẽ bên anh thật lâu, miễn là anh phải trân trọng em và biết lỗi của mình nha 😘     ',
-    mess: 'Vângg anh biết rồi 🥰. Anh yêu em nhiều nhiều lắm luôn 😘',
-    messDesc: 'Yêu nhau hết mình thêm 1 lần nữa nha 😘.',
+    reply: 'Em muốn cưới anh, em sẽ đi làm nuôi anh 😘',
+    mess: 'Ok tui đồng ý cưới em rồi đó 🥰. Chị yêu em nhiều nhiều 😘',
+    messDesc: 'Tối mai 6h, chị qua đón bé đi chơi nha 😘.',
     btnAccept: 'Quâng chị iu 😘😘',
     messLink: 'https://www.facebook.com/messages/t/Tahn6811'
 }
