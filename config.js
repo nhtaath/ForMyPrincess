@@ -1,18 +1,16 @@
 const CONFIG = {
-    titleWeb: "Dear Tró Hân",
-    introTitle: 'Ngọc Hân iu dấu của chị ☺️',
-    introDesc: `Ùmm chị đã quen có em bên cạnh rồi
-    em đừng có rời xa chị nha bé, chị hong muốn thiếu em đâuu`,
-    btnIntro: 'Quâng chị ☺️',
-    title: 'Nữa 2 mình mà cưới, em đi làm xong dìa nấu cơm rồi tối ôm anh ngủ nha 🥰',
-    desc: 'Anh ở nhà chờ em dìa ôm',
-    btnYes: 'Tất nhiên rồi chị yêu🥰',
-    btnNo: 'Deoooo',
-    question: 'Thì coi như cái này là lời cầu hôn trước đi 🥰',
-    btnReply: 'Gửi cho anh yêu 🥰',
-    reply: 'Em muốn cưới anh, em sẽ đi làm nuôi anh 😘',
-    mess: 'Ok tui đồng ý cưới em rồi đó 🥰. Chị yêu em nhiều nhiều 😘',
-    messDesc: 'Tối mai 6h, chị qua đón bé đi chơi nha 😘.',
-    btnAccept: 'Quâng chị iu 😘😘',
-    messLink: 'https://www.facebook.com/messages/t/tah68.25'
+    titleWeb: "Dear Thảo Trang",
+    introTitle: 'Trò con bò nè cưng ☺️',
+    introDesc: `này là số ít trong tất cả những thứ anh có thể làm cho em.
+    Mình còn sống lâu mà nên từ từ còn nhiều bất ngờ lắmm`,
+    btnIntro: 'Dạ vâng',
+    title: 'Em mà ở gần anh, anh làm tỉ tỉ thứ handmade cho em sau ha 🥰',
+    btnYes: 'Tất nhiên rồi cục vàng🥰',
+    btnNo: 'Không',
+    question: 'Em có sự lựa chọn sáng suốt á 🥰',
+    btnReply: 'Gửi cho cục vàng của em nè 🥰',
+    reply: 'Sau này chăm sự nhờ vào anh nhaaa',
+    mess: 'Vô tư luôn, nữa dắt em đi khắp nơi luôn',
+    btnAccept: 'Vâng Tuấn Anh đẹp gếy 😘😘',
+    messLink: 'https://www.facebook.com/messages/t/athn.68'
 }
